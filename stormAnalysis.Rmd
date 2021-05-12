@@ -5,8 +5,6 @@ output:
     keep_md: true
 ---
 
-Author: Benedict Neo Yao En  
-Date Created: 18th November 2020
 
 ## Introduction
 
